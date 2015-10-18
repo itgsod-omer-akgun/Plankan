@@ -1,4 +1,4 @@
-# Plankan
+# README
 
 This website is a project made for a school project.
 
