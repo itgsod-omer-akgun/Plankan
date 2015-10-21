@@ -1,3 +1,26 @@
 body{
     background-color: whitesmoke;
 }
+
+a:link {color: black;}
+a:visited {color: black;}
+a:hover {color: lightgray;}
+
+#content{
+    background-color: darkslategray;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}
+#menu{
+    width: 80%;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+#under-menu{
+    width: 800px;
+    height: 1000px;
+    background-color: black;
+    margin: auto;
+}
