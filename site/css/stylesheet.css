@@ -20,7 +20,22 @@ a:hover {color: lightgray;}
 }
 #under-menu{
     width: 800px;
-    height: 1000px;
+    height: 100%;
     background-color: black;
     margin: auto;
+}
+#under-menu-top{
+    width: 100%;
+    height: 20px;
+
+}
+#item{
+    background-color: white;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 1px;
+}
+#under-menu-bottom{
+    width: 100%;
+    height: 100px;
 }
