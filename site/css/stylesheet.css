@@ -36,7 +36,7 @@ a:hover {color: lightgray;}
     margin-bottom: 1px;
     
 }
-#item-pic{
+#item-pic {
     width: 140px;
     height: 140px;
     background-color: gray;
@@ -44,7 +44,7 @@ a:hover {color: lightgray;}
     float: left;
     margin-left: 5px;
 
-}   
+}
 
 #under-menu-bottom{
     width: 100%;
