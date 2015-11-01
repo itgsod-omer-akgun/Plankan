@@ -34,8 +34,19 @@ a:hover {color: lightgray;}
     width: 100%;
     height: 150px;
     margin-bottom: 1px;
+    
 }
+#item-pic{
+    width: 140px;
+    height: 140px;
+    background-color: gray;
+    margin-top: 5px;
+    float: left;
+    margin-left: 5px;
+
+}   
+
 #under-menu-bottom{
     width: 100%;
-    height: 100px;
+    height: 50px;
 }
