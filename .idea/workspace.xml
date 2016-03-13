@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dcb9f52-c222-46f4-9494-d1480a79415c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/img/welcome-to-the-alex-field.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/txt/Adams-trafiskar.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/hantverk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/konst-musik.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/kontakta-oss.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/my-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/untitled folder/script från phillip " />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/css/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/sök-sida.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site2/toplist.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/index.html" afterPath="$PROJECT_DIR$/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/stylesheet.css" afterPath="$PROJECT_DIR$/site/css/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3dcb9f52-c222-46f4-9494-d1480a79415c" name="Default" comment="" />
     <ignored path="Plankan.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7290016">
-              <caret line="83" column="74" selection-start-line="83" selection-start-column="74" selection-end-line="83" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.22979398">
+              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -697,8 +682,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7290016">
-          <caret line="83" column="74" selection-start-line="83" selection-start-column="74" selection-end-line="83" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.22979398">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
           <folding />
         </state>
       </provider>
