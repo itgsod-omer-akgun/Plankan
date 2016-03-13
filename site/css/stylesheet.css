@@ -8,7 +8,7 @@ a:visited {color: black;}
 a:hover {color: lightgray;}
 
 #content{
-    background-color: lightgray;
+    background-color: white;
     width: 90%;
     height: 100%;
     margin: auto;
@@ -24,6 +24,8 @@ a:hover {color: lightgray;}
     border-width: 4px;
 }
 #menu-canvas{
+    width: 110px;
+    height: 100px;
 }
 #under-menu{
     width: 800px;
@@ -63,6 +65,9 @@ a:hover {color: lightgray;}
 }
 
 #framsidans-logo1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    float: left;
     width: 800px;
     height: 350px;
     background-color: darkred;
@@ -72,16 +77,8 @@ a:hover {color: lightgray;}
     border-width: 4px;
 }
 #white-paragraph{
-    color: white;
-    background-color: orange;
-    border-style: solid;
-    border-color: black;
-    border-radius: 10px;
-    border-width: 4px;
-}
-#white-paragraph p{
-    background-color: black;
     color: black;
+
 }
 /* home-slut */
 #item {
