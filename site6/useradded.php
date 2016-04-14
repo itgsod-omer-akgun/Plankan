@@ -119,7 +119,7 @@ if(isset($_POST['submit'])){
 
     if(empty($data_missing)){
         
-        require_once('./mysqli_connect.php');
+        require_once('mysqli_connect.php');
         
         $query = "INSERT INTO students (first_name, last_name, email, street, city, zip, phone, homephone, birth_date, user_id, date_entered) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, NULL, NOW())";
         
@@ -174,7 +174,7 @@ if(isset($_POST['submit'])){
 
 ?>
 
-<form action="http://localhost/studentadded.php" method="post">
+<form action="useradded.php" method="post">
     
     <b>Add a New Student</b>
     

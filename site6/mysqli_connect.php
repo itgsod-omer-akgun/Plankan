@@ -1,7 +1,7 @@
 <?php
 
-DEFINE ('DB_USER', 'userbot');
-DEFINE ('DB_PASSWORD', 'usberbot1');
+DEFINE ('DB_USER', 'newuser1');
+DEFINE ('DB_PASSWORD', 'Swagseven123');
 DEFINE ('DB_HOST', 'localhost');
 DEFINE ('DB_NAME', 'test2');
 

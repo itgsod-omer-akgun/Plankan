@@ -3,7 +3,7 @@
 <title>Add User</title>
 </head>
 <body>
-<form action="http://localhost/studentadded.php" method="post">
+<form action="http://localhost/adduser.php" method="post">
 
 <b>Add a New User</b>
 
