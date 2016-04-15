@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcb9f52-c222-46f4-9494-d1480a79415c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site21/hantverk.html" afterPath="$PROJECT_DIR$/site21/hantverk.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site21/index.html" afterPath="$PROJECT_DIR$/site21/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site21/konst-musik.html" afterPath="$PROJECT_DIR$/site21/konst-musik.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site21/toplist.html" afterPath="$PROJECT_DIR$/site21/toplist.html" />
     </list>
     <ignored path="Plankan.iws" />
@@ -25,21 +27,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site21/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.2630745">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toplist.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toplist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site21/toplist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33438987">
-              <caret line="74" column="74" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+            <state vertical-scroll-proportion="-19.375">
+              <caret line="31" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hantverk.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site21/hantverk.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-25.041666">
+              <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="konst-musik.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site21/konst-musik.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-67.5">
+              <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -86,8 +108,10 @@
         <option value="$PROJECT_DIR$/site6/useradded.php" />
         <option value="$PROJECT_DIR$/site6/mysql_connect.php" />
         <option value="$PROJECT_DIR$/site6/getuserinfo.php" />
-        <option value="$PROJECT_DIR$/site21/index.html" />
         <option value="$PROJECT_DIR$/site21/toplist.html" />
+        <option value="$PROJECT_DIR$/site21/hantverk.html" />
+        <option value="$PROJECT_DIR$/site21/konst-musik.html" />
+        <option value="$PROJECT_DIR$/site21/index.html" />
       </list>
     </option>
   </component>
@@ -333,13 +357,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/my-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/sök-sida.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -689,26 +706,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site21/index.html">
+    <entry file="file://$PROJECT_DIR$/site21/toplist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.75">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="31" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site21/hantverk.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state vertical-scroll-proportion="-25.041666">
+          <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site21/toplist.html">
+    <entry file="file://$PROJECT_DIR$/site21/konst-musik.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33438987">
-          <caret line="74" column="74" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+        <state vertical-scroll-proportion="-67.5">
+          <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site21/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2630745">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding />
         </state>
       </provider>
